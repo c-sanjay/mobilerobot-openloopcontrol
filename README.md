@@ -95,7 +95,6 @@ if _name_ == '_main_':
 
 ![robo](./img/robomaster.png)
 
-Insert image here
 ![](./img/movementimg.jpg)
 ## MobileRobot Movement Video:
 
